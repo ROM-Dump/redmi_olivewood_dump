@@ -1,0 +1,18 @@
+## olivewood-user 10 QKQ1.191014.001 V12.5.4.0.QCQIDXM release-keys
+- Manufacturer: xiaomi
+- Platform: msm8937
+- Codename: olivewood
+- Brand: Redmi
+- Flavor: olivewood-user
+- Release Version: 10
+- Id: QKQ1.191014.001
+- Incremental: V12.5.4.0.QCQIDXM
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: 320
+- Fingerprint: Redmi/olivewood/olivewood:10/QKQ1.191014.001/V12.5.4.0.QCQIDXM:user/release-keys
+- OTA version: 
+- Branch: olivewood-user-10-QKQ1.191014.001-V12.5.4.0.QCQIDXM-release-keys
+- Repo: redmi_olivewood_dump
